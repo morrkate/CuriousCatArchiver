@@ -8,7 +8,7 @@ from datetime import datetime
 from time import sleep
 
 ###Setvars
-url = "https://curiouscat.qa/api/v2.1/profile"
+url = "https://curiouscat.live/kicksomeacid"
 
 initialdir = os.getcwd()
 downloadLocal = None
